@@ -2,7 +2,7 @@
 
 Un script complet pour FiveM (ESX) ajoutant un système de **Recéleur évolutif** (Pawn Shop) avec réputation et une fonctionnalité de **Pickpocket** sur les PNJ.
 
-## Preview
+## 👀 Preview
 
 **[PREVIEW](https://www.youtube.com/watch?v=6MCqXg_Qd6s)**
 
