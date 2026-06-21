@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pawn Shop UI</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div id="app" style="display: none;">
+        <div class="container">
+            <header>
+                <div class="header-top">
+                    <h1><i class="fas fa-sack-dollar"></i> Recéleur</h1>
+                    <button class="close-btn" onclick="CloseUI()"><i class="fas fa-times"></i></button>
+                </div>
+                <!-- Reputation Section -->
+                <div class="reputation-container">
+                    <div class="rep-details">
+                        <span id="rep-label">Petite Frappe</span>
+                        <span id="rep-level">Lvl 1</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div id="rep-fill" style="width: 0%;"></div>
+                    </div>
+                    <p id="rep-next" style="font-size: 0.8rem; opacity: 0.7; margin-top: 2px;">Next: 100 XP</p>
+                </div>
+            </header>
+
+            <div class="items-grid" id="items-container">
+                <!-- Items will be injected here by JS -->
+            </div>
+
+            <footer>
+                <div class="total-info">
+                    <span>Total Estimé:</span>
+                    <span id="total-price" class="price">0$</span>
+                </div>
+                <button class="sell-all-btn" onclick="SellAll()">TOUT VENDRE</button>
+            </footer>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
