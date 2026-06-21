@@ -31,7 +31,7 @@ Un script complet pour FiveM (ESX) ajoutant un système de **Recéleur évolutif
 
 Ce script nécessite l'écosystème **OX** :
 
-*   [ESX Legacy]([https://github.com/esx-framework/esx_legacy](https://github.com/esx-framework))
+*   [ESX Legacy](https://github.com/esx-framework)
 *   [ox_lib]([https://github.com/overextended/ox_lib](https://github.com/overextended/ox_lib))
 *   [ox_inventory]([https://github.com/overextended/ox_inventory](https://github.com/overextended/ox_inventory))
 *   [ox_target]([https://github.com/overextended/ox_target](https://github.com/overextended/ox_target))
