@@ -4,7 +4,7 @@ Un script complet pour FiveM (ESX) ajoutant un système de **Recéleur évolutif
 
 ## 👀 Preview
 
-**[PREVIEW](https://www.youtube.com/watch?v=6MCqXg_Qd6s)**
+**[PREVIEW](https://www.youtube.com/watch?v=6MCqXg_Qd6s](https://www.youtube.com/watch?v=qYL53FlDIMY)**
 
 ## 📋 Fonctionnalités
 
